@@ -1,0 +1,2 @@
+(this.webpackJsonpinstaclone=this.webpackJsonpinstaclone||[]).push([[9],{530:function(t,e,n){"use strict";n.r(e);var a=n(0),i=n.n(a),s=n(24),c=n(204);e.default=function(t){var e=t.location,n=Object(s.g)();return e.state&&e.state.file?i.a.createElement(c.default,{file:e.state.file,hide:function(){return n.push("/")}}):i.a.createElement(s.a,{to:"/"})}}}]);
+//# sourceMappingURL=9.c8e406bb.chunk.js.map

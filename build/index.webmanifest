@@ -1,0 +1,28 @@
+{
+    "short_name": "甜茶",
+    "name": "Timcha | 甜茶",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "logo192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "logo512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "https://www.timcha.net",
+    "display": "standalone",
+    "description": "甜茶是一个简洁的插画展示平台",
+    "scope": "/",
+    "orientation": "any",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }

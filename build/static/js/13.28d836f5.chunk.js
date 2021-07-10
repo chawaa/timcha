@@ -1,0 +1,2 @@
+(this.webpackJsonpinstaclone=this.webpackJsonpinstaclone||[]).push([[13],{528:function(e,t,n){"use strict";n.r(t);var c=n(0),a=n.n(c),s=n(8),r=n(9),u=n(24),i=n(11),l=n(206),b=Object(r.b)({currentUser:i.a});t.default=Object(s.b)(b)((function(e){var t=e.currentUser,n=Object(u.g)();return Object(c.useEffect)((function(){t&&n.push("/")}),[t,n]),a.a.createElement("main",{className:"sign-up-page"},a.a.createElement(l.default,null))}))}}]);
+//# sourceMappingURL=13.28d836f5.chunk.js.map
